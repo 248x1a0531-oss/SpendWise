@@ -16,7 +16,7 @@ SpendWise is a simple Flutter app to track daily expenses.
 ```bash
 flutter --version
 ### 1. Requirements
-- Flutter installed undali
+- Flutter installed
 - VS Code / Android Studio
 
 Team
